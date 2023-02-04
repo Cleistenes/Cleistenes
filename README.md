@@ -3,7 +3,6 @@
 - 📖 I'm a student of System Analises and Development in Estácio de Sá College.
 - Studying Java.
 - Pronoums: He/his.
-- Person with Authism.
 - Editor in https://cabanadoleitor.com.br/, where I write about game industry and technology.
 
 <div style="display: inline_block"><br>
